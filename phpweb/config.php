@@ -3,9 +3,9 @@
 
 class config
 {
-	public static $Database_Host_Address="192.168.80.89";
+	public static $Database_Host_Address="localhost";
 	public static $Database_User_Name="root";
-	public static $Database_User_Password="cellonmysql!@#";
+	public static $Database_User_Password="roger";
 	
 	public static $Project_Build_Option="build";
 	public static $Project_Property_Option="show";
